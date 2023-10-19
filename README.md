@@ -8,4 +8,5 @@
 ![image](https://github.com/philoma/OpenCv/assets/87674698/fc5be328-7efb-47ef-9fcb-16c155391b0e)
 
 <h1>Edge Detection</h1>
+
 ![image](https://github.com/philoma/OpenCv/assets/87674698/0fcc1ab2-e2f3-4c03-9ab4-707c37ec7458)

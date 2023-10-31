@@ -1,0 +1,29 @@
+S.no.  model    working_status
+
+# 1.   pytesseract ok
+# 2.   OCRopus>>>>>>> no
+        OCRopus is no longer actively developed, and Google has moved towards using Tesseract as their primary OCR engine.
+
+# 3.    GOCR no
+# 4.    Easyocr ok
+
+# 5.   calamari- Calamari OCR did not provide pre-trained models for specific languages. Users are required to train their own models using Calamari's training capabilities
+
+>>OCRAD is an open-source OCR (Optical Character Recognition) engine that has been around for quite some time, but it's important to note that it may not be as accurate as more modern OCR engines like Tesseract or EasyOCR.
+
+# 6.   keras-ocr     ok
+
+
+>>ocrmypdf for pdf documents
+
+
+7.      CuneiForm   no
+
+ Keep in mind that CuneiForm might not provide the same level of accuracy and versatility as some other OCR engines like Tesseract. Therefore, it's essential to evaluate whether CuneiForm meets your specific OCR needs before using it
+
+8. Ocrad no
+
+
+
+
+

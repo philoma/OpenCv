@@ -3,7 +3,7 @@ import cv2
 # img=cv2.imread('data/lena.jpg',1)
 img=np.zeros([512, 512, 3], np.uint8)
 
-img=cv2.line(img, (0, 0), (255, 255), (0, 5, 12), 2) # (img, (x1, y1), (x2, y2), (b g r), thickness), thickness in px
+img=cv2.line(img, (0, 0), (255, 255), (0, 5, 12), 2) # (img, (x1, y1), (x2, y2), (b g r), thickness(in px))
 img=cv2.arrowedLine(img, (1, 9), (34, 255), (76, 5, 12), 5) # (img, (x1, y1), (x2, y2), (b g r), thickness)
 img=cv2.rectangle(img, (200, 200), (300, 300), (0, 255, 0), 8)
 img=cv2.rectangle(img, (210, 210), (290, 290), (0, 255, 0), -1)

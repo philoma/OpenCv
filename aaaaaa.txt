@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/48213499/whats-the-meaning-of-cv2-videocapture-release#:~:text=When%20you%20call%20cap.,release%20software%20resource
